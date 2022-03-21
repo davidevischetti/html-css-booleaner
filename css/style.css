@@ -3,6 +3,7 @@
     font-family: 'Rubik', sans-serif;
 }
 
+/* Stile header */
 header{
     height: 180px;
     background-image: url(../img/pattern.png);
@@ -14,6 +15,7 @@ header{
     margin-top: 50px;
 }
 
+/* Stile introduzione articolo */
 .title h1 {
     font-size: 60px;
     margin-top: 20px;
@@ -39,6 +41,7 @@ header{
     font-size: 12px;
 }
 
+/* Stile contenuto articolo */
 .content {
     margin-top: 20px;
 }
@@ -52,8 +55,9 @@ header{
     padding-left: 15px;
 }
 
+/* Stile tabella */
 table {
-    margin-top: 20px;
+    margin-top: 30px;
     width: 100%;
 }
 .head-line {
@@ -70,4 +74,11 @@ td {
     background-color: rgba(90, 200, 255, 0.5) ;
 }
 
+/* Stile footer */
+footer div {
+    margin-top: 30px;
+    font-weight: 800;
+    font-size: 15px;
+    color: #aaa;
+}
 
