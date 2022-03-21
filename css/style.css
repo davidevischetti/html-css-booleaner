@@ -52,16 +52,22 @@ header{
     padding-left: 15px;
 }
 
-.table {
+table {
+    margin-top: 20px;
     width: 100%;
 }
 .head-line {
-    height: 20px;
-    width: 100%;
+    margin-top: 50px;
     background-color: rgb(78, 160, 255);
-    color: aliceblue;
-    margin-top: 20px;
+    color: white;
 }
 
+td {
+    width: 33%;
+}
+
+.blu-line {
+    background-color: rgba(90, 200, 255, 0.5) ;
+}
 
 
